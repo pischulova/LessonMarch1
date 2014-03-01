@@ -1,15 +1,23 @@
 /**
  * Created by Алена on 01.03.14.
  */
+import javax.persistence.*;
+
+@Entity
 public class Student {
+    @Id
+    @GeneratedValue  (strategy = GenerationType.IDENTITY)
     private int id;
     private String name;
     private float grade;
 
-    public Student(int id, String name, float grade) {
-        this.id = id;
+    public Student(String name, float grade) {
+
         this.name = name;
         this.grade = grade;
+    }
+
+    public Student() {
     }
 
     public int getId() {

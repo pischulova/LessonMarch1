@@ -1,16 +1,20 @@
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
 /**
  * Created by Алена on 01.03.14.
  */
 public class Starter {
+    private static final String UNIT_NAME = "Student";
+    private static EntityManagerFactory factory;
 
     public static void main(String[] args) {
-        StudentDAOdb studManager = new StudentDAOdb();
+        StudentDAOorm studManager = new StudentDAOorm();
 
-        /*Student student = new Student(2, "Bob", 3);
-        studManager.addStudent(student);*/
+        studManager.addStudent(new Student("Alice", 5));
+        System.out.println(studManager.findStudent(3));
 
-        System.out.println(
-                studManager.findStudent(1)
-        );
     }
+
 }

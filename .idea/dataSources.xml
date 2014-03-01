@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="1369193681">
+  <component name="DataSourceManagerImpl" format="xml" hash="681547518">
     <data-source source="LOCAL" name="Derby - db" uuid="205fca7d-d848-49e2-b027-e2cb27f2d0f8">
       <driver-ref>derby.embedded</driver-ref>
       <synchronize>true</synchronize>
@@ -9,6 +9,14 @@
       <libraries>
         <library>
           <url>file://C:/Program Files/Java/jdk1.7.0_45/db/lib/derby.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="NewPersistenceUnit" uuid="858f6e45-a179-4b7b-99f9-8c97ef3067a4">
+      <jdbc-url>jdbc:derby:CM;create=true</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://C:\Users\Алена\.m2\repository\org\eclipse\persistence\eclipselink\2.5.0\eclipselink-2.5.0.jar</url>
         </library>
       </libraries>
     </data-source>

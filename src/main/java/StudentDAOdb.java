@@ -50,7 +50,7 @@ public class StudentDAOdb implements StudentDAO {
             ResultSet res = stmt.executeQuery();
 
             while(res.next()) {
-                s= new Student(res.getInt("id"), res.getString("name"), res.getFloat("grade"));
+                s= new Student(res.getString("name"), res.getFloat("grade"));
             }
             stmt.close();
         } catch (SQLException e) {

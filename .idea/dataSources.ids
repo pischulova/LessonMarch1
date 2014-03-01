@@ -641,4 +641,7 @@
       </prototype>
     </procedure>
   </data-source>
+  <data-source source="LOCAL" name="NewPersistenceUnit" uuid="858f6e45-a179-4b7b-99f9-8c97ef3067a4">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
 </component>
