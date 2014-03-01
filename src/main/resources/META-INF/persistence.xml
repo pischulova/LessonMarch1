@@ -7,6 +7,7 @@
             org.eclipse.persistence.jpa.PersistenceProvider
         </provider>
         <class>Student</class>
+        <class>Book</class>
         <properties>
             <property name="eclipselink.jdbc.url" value="jdbc:derby:C:/Users/Алена/IdeaProjects/LessonMarch1/db"/>
             <property name="eclipselink.jdbc.driver" value="org.apache.derby.jdbc.EmbeddedDriver"/>
@@ -17,4 +18,6 @@
             <property name="eclipselink.ddl-generation.output-mode" value="database"/>
         </properties>
     </persistence-unit>
+
+
 </persistence>

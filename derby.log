@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Sat Mar 01 15:32:14 EET 2014:
- Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): экземпляр a816c00e-0144-7dd8-5870-0000001a26d8
-в каталоге базы данных C:\Users\Алена\IdeaProjects\LessonMarch1\db  sun.misc.Launcher$AppClassLoader@df6ccd 
+Sat Mar 01 17:13:58 EET 2014:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): экземпляр a816c00e-0144-7e35-7cc7-000000a94570
+в каталоге базы данных C:\Users\Алена\IdeaProjects\LessonMarch1\db  sun.misc.Launcher$AppClassLoader@601bb1 
 
 java.vendor=Oracle Corporation
 java.runtime.version=1.7.0_45-b18

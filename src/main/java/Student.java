@@ -2,6 +2,8 @@
  * Created by Алена on 01.03.14.
  */
 import javax.persistence.*;
+import java.util.Collection;
+import java.util.Iterator;
 
 @Entity
 public class Student {
@@ -10,6 +12,8 @@ public class Student {
     private int id;
     private String name;
     private float grade;
+    @OneToMany(mappedBy="student")
+    private Collection<Book> books;
 
     public Student(String name, float grade) {
 
@@ -44,12 +48,20 @@ public class Student {
         this.grade = grade;
     }
 
+    public Collection<Book> getBooks() {
+        return books;
+    }
+
+    public void setBooks(Collection<Book> books) {
+        this.books = books;
+    }
+
     @Override
     public String toString() {
         return "Student{" +
-                "id=" + id +
+                "grade=" + grade +
                 ", name='" + name + '\'' +
-                ", grade=" + grade +
+                ", id=" + id +
                 '}';
     }
 }

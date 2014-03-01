@@ -9,7 +9,7 @@ public class StudentDAOdb implements StudentDAO {
 
     private final String addStudent = "INSERT INTO STUDENT (ID, NAME, GRADE) VALUES (?, ?, ?)";
     private final String findStudent = "SELECT * FROM STUDENT WHERE ID=?";
-    private final String deleteStudent = "";
+    private final String deleteStudent = "DELETE * FROM STUDENT WHERE ID=?";
 
     public StudentDAOdb() {
         try {
@@ -59,5 +59,13 @@ public class StudentDAOdb implements StudentDAO {
         return s;
     }
 
+    @Override
+    public void removeStudent(Student student) {
+        try {
+            PreparedStatement stmt = connection.prepareStatement(deleteStudent);
 
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
 }
