@@ -2,25 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55e642f8-4681-45c0-99ff-71a9b8fb9407" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DAOFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DerbyDAOFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/DerbySingleton.java" />
-      <change type="MOVED" beforePath="C:\Users\Алена\IdeaProjects\LessonMarch1\src\main\java\BooktDAOorm.java" afterPath="$PROJECT_DIR$/src/main/java/BookDAOorm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_4_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_3_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c10.dat" afterPath="$PROJECT_DIR$/db/seg0/c10.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c101.dat" afterPath="$PROJECT_DIR$/db/seg0/c101.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c111.dat" afterPath="$PROJECT_DIR$/db/seg0/c111.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c121.dat" afterPath="$PROJECT_DIR$/db/seg0/c121.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c130.dat" afterPath="$PROJECT_DIR$/db/seg0/c130.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c141.dat" afterPath="$PROJECT_DIR$/db/seg0/c141.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c150.dat" afterPath="$PROJECT_DIR$/db/seg0/c150.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c161.dat" afterPath="$PROJECT_DIR$/db/seg0/c161.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c171.dat" afterPath="$PROJECT_DIR$/db/seg0/c171.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c20.dat" afterPath="$PROJECT_DIR$/db/seg0/c20.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c200.dat" afterPath="$PROJECT_DIR$/db/seg0/c200.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c211.dat" afterPath="$PROJECT_DIR$/db/seg0/c211.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c221.dat" afterPath="$PROJECT_DIR$/db/seg0/c221.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c230.dat" afterPath="$PROJECT_DIR$/db/seg0/c230.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c241.dat" afterPath="$PROJECT_DIR$/db/seg0/c241.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c251.dat" afterPath="$PROJECT_DIR$/db/seg0/c251.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c31.dat" afterPath="$PROJECT_DIR$/db/seg0/c31.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c41.dat" afterPath="$PROJECT_DIR$/db/seg0/c41.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c51.dat" afterPath="$PROJECT_DIR$/db/seg0/c51.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c60.dat" afterPath="$PROJECT_DIR$/db/seg0/c60.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c71.dat" afterPath="$PROJECT_DIR$/db/seg0/c71.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c81.dat" afterPath="$PROJECT_DIR$/db/seg0/c81.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/c90.dat" afterPath="$PROJECT_DIR$/db/seg0/c90.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/ca1.dat" afterPath="$PROJECT_DIR$/db/seg0/ca1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/cb1.dat" afterPath="$PROJECT_DIR$/db/seg0/cb1.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/seg0/cf0.dat" afterPath="$PROJECT_DIR$/db/seg0/cf0.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/log/log.ctrl" afterPath="$PROJECT_DIR$/db/log/log.ctrl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/log/logmirror.ctrl" afterPath="$PROJECT_DIR$/db/log/logmirror.ctrl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Book.java" afterPath="$PROJECT_DIR$/src/main/java/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/DerbySingleton.java" afterPath="$PROJECT_DIR$/src/main/java/DerbySingleton.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LessonMarch1.iml" afterPath="$PROJECT_DIR$/LessonMarch1.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Starter.java" afterPath="$PROJECT_DIR$/src/main/java/Starter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/StudentDAO.java" afterPath="$PROJECT_DIR$/src/main/java/StudentDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/StudentDAOdb.java" afterPath="$PROJECT_DIR$/src/main/java/StudentDAOdb.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/StudentDAOorm.java" afterPath="$PROJECT_DIR$/src/main/java/StudentDAOorm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/db.lck" afterPath="$PROJECT_DIR$/db/db.lck" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/derby.log" afterPath="$PROJECT_DIR$/derby.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LessonMarch1.iws" />
@@ -85,10 +116,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Starter.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Starter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Starter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="35" selection-start="3187" selection-end="3187" vertical-scroll-proportion="0.0" vertical-offset="1321" max-vertical-offset="1649">
+            <state line="93" column="10" selection-start="3416" selection-end="3416" vertical-scroll-proportion="0.6420323" vertical-offset="1303" max-vertical-offset="1768">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,52 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DAOFactory.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DAOFactory.java">
+      <file leaf-file-name="Book.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="30" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="459">
+            <state line="18" column="47" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="782">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="APP.STUDENT" pinned="false" current="false" current-in-tab="false">
-        <entry file="dbDummy://dbtable:/ea12a2b9/09e164b3-09fa-47b6-aead-5a75a2d3da38/.APP.STUDENT">
-          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentDAOdb.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StudentDAOdb.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="16" selection-start="2122" selection-end="2122" vertical-scroll-proportion="0.0" vertical-offset="955" max-vertical-offset="1411">
-              <folding>
-                <marker date="1393760424557" expanded="true" signature="277:331" placeholder="INSERT INTO ..." />
-                <marker date="1393760424557" expanded="true" signature="374:406" placeholder="SELECT * FRO..STUDENT..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentDAOorm.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StudentDAOorm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="799">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DerbySingleton.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DerbySingleton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="32" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="151" max-vertical-offset="629">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -149,16 +139,39 @@
       <file leaf-file-name="StudentDAO.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StudentDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="48" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+            <state line="8" column="50" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BookDAOorm.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BookDAOorm.java">
+      <file leaf-file-name="APP.STUDENT" pinned="false" current="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/ea12a2b9/ebeb3e1f-f441-4ce1-8bf6-b8e3cf8bf16c/.APP.STUDENT">
+          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="APP.BOOK" pinned="false" current="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/ea12a2b9/ebeb3e1f-f441-4ce1-8bf6-b8e3cf8bf16c/.APP.BOOK">
+          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="persistence.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.28605768" vertical-offset="0" max-vertical-offset="629">
+            <state line="25" column="68" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="17" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
@@ -186,22 +199,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/java/BookDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/StudentDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/StudentDAOdb.java" />
         <option value="$PROJECT_DIR$/src/main/java/EntityManagerSingleton.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DerbySingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/BooktDAOorm.java" />
         <option value="$PROJECT_DIR$/src/main/java/DAOFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/DerbyDAOFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Starter.java" />
         <option value="$PROJECT_DIR$/src/main/java/StudentDAOorm.java" />
         <option value="$PROJECT_DIR$/src/main/java/BookDAOorm.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/DerbySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Starter.java" />
       </list>
     </option>
   </component>
@@ -634,7 +647,7 @@
       <updated>1393665355037</updated>
       <workItem from="1393665362823" duration="18506000" />
       <workItem from="1393751404567" duration="3227000" />
-      <workItem from="1393754882381" duration="8693000" />
+      <workItem from="1393754882381" duration="13264000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;">
       <created>1393680854564</created>
@@ -644,11 +657,15 @@
       <created>1393687173217</created>
       <updated>1393687173217</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit&#10;">
+      <created>1393764510481</created>
+      <updated>1393764510481</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30426000" />
+    <option name="totallyTimeSpent" value="34997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
@@ -660,7 +677,7 @@
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1453958" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14701131" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3984496" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -675,8 +692,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18739903" sideWeight="0.6704362" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28217053" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2092084" sideWeight="0.6704362" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23565891" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -756,8 +773,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="65" column="0" selection-start="1953" selection-end="1953" vertical-scroll-proportion="0.0" vertical-offset="896" max-vertical-offset="1309">
           <folding>
-            <marker date="1393760424557" expanded="true" signature="277:331" placeholder="INSERT INTO ..." />
-            <marker date="1393760424557" expanded="true" signature="374:406" placeholder="SELECT * FRO..STUDENT..." />
+            <marker date="1393760424557" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1393760424557" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..STUDENT..." />
           </folding>
         </state>
       </provider>
@@ -781,13 +798,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="619" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="19" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/ea12a2b9/205fca7d-d848-49e2-b027-e2cb27f2d0f8/.APP.STUDENT">
       <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
         <state />
@@ -798,23 +808,9 @@
         <state line="94" column="0" selection-start="4922" selection-end="4922" vertical-scroll-proportion="-0.68" vertical-offset="1564" max-vertical-offset="2074" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="12" selection-start="826" selection-end="826" vertical-scroll-proportion="0.7266881" vertical-offset="63" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="59" column="18" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="821" max-vertical-offset="1241">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="14" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="901">
           <folding />
         </state>
       </provider>
@@ -829,13 +825,71 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BookDAOorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StudentDAOdb.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="74" column="16" selection-start="2122" selection-end="2122" vertical-scroll-proportion="0.0" vertical-offset="955" max-vertical-offset="1411">
           <folding>
-            <marker date="1393760424557" expanded="true" signature="277:331" placeholder="INSERT INTO ..." />
-            <marker date="1393760424557" expanded="true" signature="374:406" placeholder="SELECT * FRO..STUDENT..." />
+            <marker date="1393760424557" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1393760424557" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..STUDENT..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/persistence/javax.persistence/2.1.0/javax.persistence-2.1.0.jar!/javax/persistence/Persistence.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.7962963" vertical-offset="277" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DerbySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="50" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="629">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="30" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/ea12a2b9/ebeb3e1f-f441-4ce1-8bf6-b8e3cf8bf16c/.APP.STUDENT">
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StudentDAOorm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="0.3497537" vertical-offset="147" max-vertical-offset="799">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DerbyDAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="33" selection-start="217" selection-end="217" vertical-scroll-proportion="0.39812645" vertical-offset="0" max-vertical-offset="427">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StudentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="50" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -846,58 +900,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StudentDAO.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="48" selection-start="253" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+        <state line="18" column="47" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DerbySingleton.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="32" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0" vertical-offset="151" max-vertical-offset="629">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="25" column="68" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="680">
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="17" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/ea12a2b9/ebeb3e1f-f441-4ce1-8bf6-b8e3cf8bf16c/.APP.BOOK">
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Starter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="35" selection-start="3187" selection-end="3187" vertical-scroll-proportion="0.0" vertical-offset="1321" max-vertical-offset="1649">
+        <state line="93" column="10" selection-start="3416" selection-end="3416" vertical-scroll-proportion="0.6420323" vertical-offset="1303" max-vertical-offset="1768">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DerbyDAOFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="33" selection-start="217" selection-end="217" vertical-scroll-proportion="0.49853373" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DAOFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="30" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StudentDAOorm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="799">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BookDAOorm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="241" selection-end="241" vertical-scroll-proportion="0.28605768" vertical-offset="0" max-vertical-offset="629">
-          <folding />
         </state>
       </provider>
     </entry>

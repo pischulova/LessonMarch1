@@ -11,7 +11,7 @@ import javax.persistence.Persistence;
 public class DerbySingleton {
     private static DerbySingleton ourInstance = new DerbySingleton();
 
-    private static final String UNIT_NAME = "Student";
+    private static final String UNIT_NAME = "Unit2";
     private static EntityManagerFactory factory;
     private static EntityManager em = null;
 

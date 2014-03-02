@@ -16,8 +16,9 @@ public class Book {
     public Book() {
     }
 
-    public Book(String name) {
+    public Book(String name, Student student) {
         this.name = name;
+        this.student = student;
     }
 
     public int getId() {

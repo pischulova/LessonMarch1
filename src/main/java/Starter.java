@@ -1,6 +1,8 @@
+import sun.print.resources.serviceui_zh_TW;
+
 import javax.persistence.Persistence;
-        import javax.persistence.TypedQuery;
-        import java.util.List;
+import javax.persistence.TypedQuery;
+import java.util.List;
 
 /**
  * Created by Алена on 01.03.14.
@@ -83,8 +85,13 @@ public class Starter {
 //            }
 //        }
 
-        System.out.println(
-                DAOFactory.getDAOFactory(1).getStudentDAO().findStudent(1));
+        StudentDAO stud = DAOFactory.getDAOFactory(1).getStudentDAO();
+        Student s = stud.findStudent(1);
+        System.out.println(s);
+
+        BookDAO boo = DAOFactory.getDAOFactory(1).getBookDAO();
+        System.out.println(boo.findBook(3));
+        //boo.addBook(new Book("Shakespeare", s));
 
     }
 
