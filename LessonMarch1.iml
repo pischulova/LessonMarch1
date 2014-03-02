@@ -7,6 +7,7 @@
         <setting name="provider-name" value="" />
         <datasource-mapping>
           <factory-entry name="NewPersistenceUnit" value="858f6e45-a179-4b7b-99f9-8c97ef3067a4" />
+          <factory-entry name="Student" />
         </datasource-mapping>
         <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/src/main/resources/META-INF/persistence.xml" />
       </configuration>

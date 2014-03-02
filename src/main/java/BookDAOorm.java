@@ -5,18 +5,11 @@ import javax.persistence.Persistence;
 /**
  * Created by Алена on 01.03.14.
  */
-public class BooktDAOorm implements BookDAO{
-    private static final String UNIT_NAME = "Student";
-    private static EntityManagerFactory factory;
+public class BookDAOorm implements BookDAO{
     private EntityManager em;
 
-    public BooktDAOorm() {
-        factory = Persistence.createEntityManagerFactory(UNIT_NAME);
-        em = factory.createEntityManager();
-    }
-
-    public BooktDAOorm(EntityManager em) {
-        this.em = em;
+    public BookDAOorm() {
+        this.em = DerbySingleton.getEMS();
     }
 
     @Override
